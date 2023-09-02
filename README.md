@@ -1,0 +1,1 @@
+React da asosiy huklarni qanday ishlashi va unda foylanish
